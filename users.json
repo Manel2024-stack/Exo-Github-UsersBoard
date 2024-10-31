@@ -28,5 +28,35 @@
         "description": "Amateur de cuisine et de sport.",
         "photo": "https://via.placeholder.com/100",
         "phone": "0147258369"
+    },
+    {
+        "id": 4,
+        "name": "David",
+        "email": "david@example.com",
+        "age": 32,
+        "gender": "Homme",
+        "description": "Fan de randonnée et de photographie.",
+        "photo": "https://via.placeholder.com/100",
+        "phone": "0158463721"
+    },
+    {
+        "id": 5,
+        "name": "Eva",
+        "email": "eva@example.com",
+        "age": 27,
+        "gender": "Femme",
+        "description": "Amoureuse des livres et des chats.",
+        "photo": "https://via.placeholder.com/100",
+        "phone": "0162738495"
+    },
+    {
+        "id": 6,
+        "name": "Frank",
+        "email": "frank@example.com",
+        "age": 29,
+        "gender": "Homme",
+        "description": "Passionné de cinéma et de voyage.",
+        "photo": "https://via.placeholder.com/100",
+        "phone": "0171846273"
     }
 ]
